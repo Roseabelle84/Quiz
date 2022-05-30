@@ -1,6 +1,6 @@
 # Quiz
 
-## Timed Quiz about Coding Programs for students
+## Timed Quiz to check the knowledge of Students
 
 # Html 
 ## CSS 
