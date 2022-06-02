@@ -1,0 +1,43 @@
+. body {
+    background: green
+}
+
+.start_btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+/* Start Quiz Button Styling */
+.start_btn button {
+    font-size: 25px;
+    font-weight: 500;
+    color: cornflowerblue;
+    padding: 25px 25px;
+    outline: none;
+    border: darkcyan border-radius: 5px;
+    background: none;
+    cursor: pointer;
+    top:
+}
+
+.info_box {
+    width: 540px;
+    background: pink;
+    border: radius 2px;
+}
+
+.info_box .info_title {
+    height: 50px;
+    width: 100%;
+    border-bottom: 2px solid rgb(52, 144, 52);
+    align-items: center;
+    padding: 0 35px;
+    font-size: 200px;
+    font-weight: 600;
+
+}
+
+.info_list {}
